@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Chapter 1 Binary Search'/>
+        <page name='Chapter 2 Selection Sort'/>
+        <page name='Chapter 3 Recursion'/>
+        <page name='Chapter 4 Quicksort'/>
+        <page name='Chapter 5 Hash tables'/>
+        <page name='Chapter 6 Breadth-first search'/>
+        <page name='Chapter 7 Dijkstra&apos;s algorithm'/>
+        <page name='Chapter 8 Greedy algorithms'/>
+        <page name='Chapter 9 Dynamic programming'/>
+    </pages>
+</playground>
