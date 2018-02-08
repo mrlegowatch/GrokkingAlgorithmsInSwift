@@ -3,14 +3,17 @@ This repository contains sample code written in Swift based on the book, "[Grokk
 
 The original sample code in Python, which the book's examples are based on, are linked from the publisher's page.
 
+This code has been developed as part of a **Book Club** I am running with members of my team.
+
 Each chapter has its own Playground page for specific examples and exercises.
 
- - Chapter 1: Binary Search
- - Chapter 2: Selection Sort
- - Chapter 3: Recursion
- - Chapter 4: Quicksort
- - Chapter 5: Hash tables
- - Chapter 6: Breadth-first search
- - Chapter 7: Dijkstra's algorithm
- - Chapter 8: Greedy algorithms
- - Chapter 9: Dynamic programming
+## Chapters
+ - Binary Search
+ - Selection Sort
+ - Recursion
+ - Quicksort
+ - Hash tables
+ - Breadth-first search
+ - Dijkstra's algorithm
+ - Greedy algorithms
+ - Dynamic programming
